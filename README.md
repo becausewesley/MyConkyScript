@@ -22,4 +22,4 @@ Here is my current dashboard:
 
 ### Feel free to branch and edit
 
-Additional resources [HERE](http://conky.sourceforge.net/variables.html)
+List of Conky Objects (web version of Conky Objetcs.html) [HERE](http://conky.sourceforge.net/variables.html)
