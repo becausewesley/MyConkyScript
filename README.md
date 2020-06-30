@@ -19,3 +19,7 @@ Here is my current dashboard:
 * Mint theme (including color gradients on graphs)
 * Transparrent BG
 * Own Window (Is always on desktop)
+
+### Feel free to branch and edit
+
+Additional resources [HERE](http://conky.sourceforge.net/variables.html)
