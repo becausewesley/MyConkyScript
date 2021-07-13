@@ -1,4 +1,3 @@
-* linguist-vendored
-*.html linguist-vendored=false
+*.html linguist-detectable=false
 
-*.lua liguist-language = lua
+*.conky liguist-language = Lua
