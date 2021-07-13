@@ -1,1 +1,4 @@
-liguist-language = lua
+* linguist-vendored
+*.html linguist-vendored=false
+
+*.lua liguist-language = lua
